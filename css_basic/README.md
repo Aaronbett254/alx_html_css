@@ -1,6 +1,6 @@
-# html advanced
+# css_basic
 
-This is a sample project showcasing the structure of an HTML page.
+css styles was added to the previous index.html file and tweet.html file.
 
 ## Table of Contents
 
@@ -12,15 +12,14 @@ This is a sample project showcasing the structure of an HTML page.
 
 ## Description
 
-This project provides a basic structure for an HTML page, including a header, main content sections, and a footer. It demonstrates how to organize different elements such as images, links, headings, and text within the HTML structure.
+This project was a continuation of the previous project and styling was added.
 
 ## Usage
 
 To use this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Aaronbett254/alx_html_css/`
+1. Clone the repository: `git clone https://github.com/Aaronbett254/alx_html_css`
 2. Open the HTML file (`index.html`) in a web browser.
-3. Explore the different sections of the webpage, such as the header, main content, and footer.
 
 ## Installation
 
@@ -32,4 +31,4 @@ Contributions to this project are welcome! If you have any suggestions, improvem
 
 ## License
 
-This project is free to use and is not licenced.
+This project is  not licensed.
